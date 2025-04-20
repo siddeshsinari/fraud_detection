@@ -16,4 +16,6 @@
 ## git branch --> master is a new default branch ( usually use to run production SW )
 ## git remote add origin https://github.com/sajankedia/fraud_detection.git
 ## git branch -m main --> change the main name from master to main
-## git push -u origin main --> push changes to github
+## git push -u origin main --> push changes to github to origin/main branch
+## or .. git branch -m master --> change the main name from master to main
+## or .. git push -u origin master --> to push changes to github origin/master branch
