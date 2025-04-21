@@ -11,5 +11,4 @@ def mult (a,b):
     c = a*b
     return c
 
-print('sum is' sum(3,4) '& mult is' mult(3,4))
-
+print ('Hisum is sum(3,4) & mult is')
